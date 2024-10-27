@@ -1,0 +1,31 @@
+#remote_theme: minima #pages-themes/slate@v0.2.0
+#plugins:
+#- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: StatzViz Blog
+
+author: 
+ name: StatsViz Inc.
+
+description: > 
+  Covering the different features and use cases of StatsViz. 
+
+# theme: minima
+remote_theme: jekyll/minima 
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# link only to specific pages in the header 
+header_pages:
+  - index.md
+
+minima: 
+  skin: auto
+
+  social_links:
+    # - { platform: github, user_url: "https://github.com/doomed51" }
+    # - { platform: x, user_url: "https://x.com/inSenCite" }
+
