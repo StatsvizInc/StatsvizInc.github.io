@@ -8,7 +8,7 @@ author:
  name: StatsViz Inc.
 
 description: > 
-StatsViz helps investors and traders uncover seasonal and statistical patterns in the market.  Perfect for traders and investors interested in adding a statistical perspective to their toolkit.
+  StatsViz helps investors and traders uncover seasonal and statistical patterns in the market. Perfect for traders and investors interested in adding a statistical perspective to their toolkit.
 
 # theme: minima
 remote_theme: jekyll/minima 
