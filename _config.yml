@@ -21,6 +21,7 @@ plugins:
 # link only to specific pages in the header 
 header_pages:
   - index.md
+  - [StatsViz](www.statsviz.com)
 
 minima: 
   skin: auto
