@@ -2,7 +2,7 @@
 #plugins:
 #- jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: StatzViz Blog
+title: Identifying Seasonal and Statistical Patterns with StatsViz
 
 author: 
  name: StatsViz Inc.
