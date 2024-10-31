@@ -1,57 +1,18 @@
 ---
 layout: post
-title: "Update - OCT 30, 2024 - Lots of New Symbols Added"
+title: "Update - Oct 30, 2024 - New Symbols Now Available on StatsViz!"
 author: StatsViz Inc. 
 tags: [update]
 ---
 
-A large number of new symbols have been added to [StatsViz](https://www.statsviz.com/) as follows: 
+A large number of new symbols have been added to [StatsViz](https://www.statsviz.com/).  
 
-- AMD
-- BOIL
-- BURU
-- CLOI
-- DBO
-- DXJ
-- ENB
-- FXB
-- FXY
-- GLD
-- GM
-- HSY
-- HYG
-- IEI
-- JEPI
-- KOLD
-- KRE
-- MSFT
-- NET
-- RFV
-- SCO
-- SHY
-- SOXL
-- SPY
-- SSO
-- SVIX
-- SVXY
-- TBT
-- TLT
-- TSLA
-- UMC
-- UNG
-- USO
-- UVXY
-- VIXM
-- VIXY
-- VTI
-- VXX
-- XBI
-- XFLT
-- XIU
-- XLE
-- XLF
-- XLI
-- XLP
-- XLU
-- XLV
-- YCS
+***New Symbols***:
+
+- **Individual Stocks**: AMD, ENB, GM, HSY, MSFT, NET, TSLA, UMC
+
+- **ETFs & Indices**: BOIL, DBO, DXJ, FXB, FXY, GLD, HYG, IEI, JEPI, KOLD, KRE, RFV, SCO, SHY, SOXL, SPY, SSO, SVIX, SVXY, TBT, TLT, UNG, USO, UVXY, VIXM, VIXY, VTI, VXX, XBI, XFLT, XIU, XLE, XLF, XLI, XLP, XLU, XLV, YCS, BURU, CLOI
+
+With these new symbols, you can now analyze a broader spectrum of market trends and patterns, from individual stocks to sector ETFs and volatility indexes like VIX and UVXY.
+
+Data is continually updated and new symbols will continue to be added. Check back again soon! 
