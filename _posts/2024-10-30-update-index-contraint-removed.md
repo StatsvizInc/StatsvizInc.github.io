@@ -15,4 +15,4 @@ A large number of new symbols have been added to [StatsViz](https://www.statsviz
 
 With these new symbols, you can now analyze a broader spectrum of market trends and patterns, from individual stocks to sector ETFs and volatility indexes like VIX and UVXY.
 
-Data is continually updated and new symbols will continue to be added. Check back again soon! 
+Data is continually updated and new symbols are being added based on user requests. Check back again soon! 
