@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Update - Oct 30, 2024 - New Symbols Now Available on StatsViz!"
+title: "Data Update: New Symbols Now Available on StatsViz!"
 author: StatsViz Inc. 
 tags: [update]
 ---
