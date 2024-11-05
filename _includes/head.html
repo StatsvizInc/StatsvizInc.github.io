@@ -11,14 +11,17 @@
   
     {%- include custom-head.html -%}
     <style>
+        .link-container {
+          display: flex;
+          align-items: center; /* Centers the link vertically */
+          height: 100%; /* Matches the height of the header */
+        }
+        
         .custom-link {
           font-size: x-large;
           font-family: monospace;
-          float: right;
-          margin-left: 20px;
           padding: 8px 16px;
           background-color: #e74c3c; /* Blue background */
-          color: #fff; /* White text */
           text-decoration: none;
           border-radius: 4px;
           font-weight: bold;
@@ -26,7 +29,8 @@
         }
       
         .custom-link:hover {
-          background-color: #2980b9; /* Darker blue on hover */
+          background-color: #6e241c; /* Darker blue on hover */
+          
         }
       </style>
   </head>
