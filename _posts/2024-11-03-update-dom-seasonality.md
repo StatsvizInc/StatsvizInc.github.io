@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Feature Spotlight: Day-of-Month Seasonality Analysis for FXB on StatsViz!"
+title: "New Feature Spotlight: Day-of-Month Seasonality"
 author: StatsViz Inc. 
 tags: [analysis, release]
 ---
