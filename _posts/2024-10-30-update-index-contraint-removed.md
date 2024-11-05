@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Data Update: New Symbols Now Available on StatsViz!"
+title: "Data Update: New symbols now available on StatsViz!"
 author: StatsViz Inc. 
 tags: [update]
 ---
