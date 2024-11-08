@@ -27,6 +27,6 @@ minima:
 
   social_links:
     - { platform: linkedin, user_url: "https://www.linkedin.com/company/statsviz" }
-    - { platform: twitter, user_url: "https://x.com/realStatsViz" }
+    - { platform: x, user_url: "https://x.com/realStatsViz" }
     
 
