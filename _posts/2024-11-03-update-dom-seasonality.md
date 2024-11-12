@@ -2,7 +2,7 @@
 layout: post
 title: "New Feature Spotlight: Day-of-Month Seasonality"
 author: StatsViz Inc. 
-tags: [analysis, release]
+tags: [analysis, update]
 ---
 
 **Day-of-Month Seasonality** is now available on the [landing page](https://www.statsviz.com/). This offers users the ability to examine daily performance of financial instruments and associated statistics, complementing the existing monthly seasonality view.
