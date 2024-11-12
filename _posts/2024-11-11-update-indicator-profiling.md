@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Feature Spotlight: Indicator Profiling Helps You Find Alpha Generating Indicators"
+title: "New Feature Spotlight: Indicator Profiling helps you find alpha generating Indicators"
 author: StatsViz Inc. 
 tags: [update]
 date: [2024-11-11]
