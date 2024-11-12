@@ -27,7 +27,7 @@ See exactly how your indicator correlates with future returns across different t
 * How long the predictive power lasts
 * Which indicator ranges to avoid
 
-[Indicator Profile heatmap for SPY](/assets/release-indicator-profiling-heatmap.JPG)
+![Indicator Profile heatmap for SPY](/assets/release-indicator-profiling-heatmap.JPG)
 
 ### 2. Autocorrelation Insights
 
@@ -37,7 +37,7 @@ Discover how your indicator's values relate to each other over time, helping you
 * Spot persistent trends
 * Identify optimal holding periods
 
-[Indicator Profile autocorrelation for SPY](/assets/release-indicator-profiling-autocorrelation.JPG)
+![Indicator Profile autocorrelation for SPY](/assets/release-indicator-profiling-autocorrelation.JPG)
 
 ### 3. Distribution Analysis
 
@@ -47,13 +47,13 @@ Understand your indicator's statistical fingerprint with a detailed distribution
 * Frequency of extreme values
 * Natural ranges and boundaries
 
-[Indicator Profile distribution for SPY](/assets/release-indicator-profiling-distribution.JPG)
+![Indicator Profile distribution for SPY](/assets/release-indicator-profiling-distribution.JPG)
 
 ### 4. Price-Signal Overview
 
 A reference chart to check how your indicator moves alongside the underlying price of the security and assess historical context for current readings.
 
-[Indicator Profile close price for SPY](/assets/release-indicator-profiling-closepx.JPG)
+![Indicator Profile close price for SPY](/assets/release-indicator-profiling-closepx.JPG)
 
 ## Putting It Into Practice
 
