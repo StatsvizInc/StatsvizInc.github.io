@@ -35,7 +35,5 @@ While seasonality shouldn't be your only decision-making factor, it provides val
 
 As we approach year-end, keep an eye on how price action aligns with these seasonal tendencies. The interplay between Fed policy, market technicals, and seasonal patterns could create interesting trading opportunities for those paying attention to the state of the bond market.
 
-*What's your view on bonds for the remainder of the year? Share your thoughts in the comments below.*
-
 ---
 *Disclaimer: This analysis is for informational purposes only and should not be considered as trading advice. Always conduct your own research and consider your personal risk tolerance before making investment decisions.*
