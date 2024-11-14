@@ -12,7 +12,7 @@ With inflation remaining sticky and the Federal Reserve maintaining its hawkish 
 
 ## Seasonality Patterns: A Statistical Perspective
 
-Our analysis of TLT log returns reveals some intriguing patterns:
+Our analysis of TLT returns reveals some intriguing patterns:
 
 ![TLT log return seasonality](/assets/2024-11-14-analysis-tlt-seasonality/2024-11-14-tlt-seasonality.JPG)
 
